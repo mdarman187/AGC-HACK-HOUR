@@ -10,8 +10,12 @@ The complete college administrative portal website and mobile application.
 >  * institutions folder is the main admin website folder
 
 ## Project Screenshots
-![Image](adminwebsite.png)  ![Image](admin1.png) ![Image](admin2.png) ![Image](admin3.png)
-![Image](flutterApp.jpeg)
+
+  Splash Screen                 |   Home Screen        |  Article Page
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/mdarman187/AGC-HACK-HOUR/blob/master/adminwebsite.png?raw=true)|
+![](https://github.com/mdarman187/AGC-HACK-HOUR/blob/master/admin1.png?raw=true)|
+![](https://github.com/mdarman187/AGC-HACK-HOUR/blob/master/admin2.png?raw=true)
 
 
 ## Pull Requests
